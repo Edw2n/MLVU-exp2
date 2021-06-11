@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/MLVU-exp2/static/css/main.8d3aaaa8.chunk.css",
-    "main.js": "/MLVU-exp2/static/js/main.e0c4c44d.chunk.js",
-    "main.js.map": "/MLVU-exp2/static/js/main.e0c4c44d.chunk.js.map",
-    "runtime-main.js": "/MLVU-exp2/static/js/runtime-main.ac86c374.js",
-    "runtime-main.js.map": "/MLVU-exp2/static/js/runtime-main.ac86c374.js.map",
-    "static/js/2.16af44c1.chunk.js": "/MLVU-exp2/static/js/2.16af44c1.chunk.js",
-    "static/js/2.16af44c1.chunk.js.map": "/MLVU-exp2/static/js/2.16af44c1.chunk.js.map",
-    "static/js/3.04f8bcdd.chunk.js": "/MLVU-exp2/static/js/3.04f8bcdd.chunk.js",
-    "static/js/3.04f8bcdd.chunk.js.map": "/MLVU-exp2/static/js/3.04f8bcdd.chunk.js.map",
+    "main.js": "/MLVU-exp2/static/js/main.a7cfeb78.chunk.js",
+    "main.js.map": "/MLVU-exp2/static/js/main.a7cfeb78.chunk.js.map",
+    "runtime-main.js": "/MLVU-exp2/static/js/runtime-main.a8e0a4ee.js",
+    "runtime-main.js.map": "/MLVU-exp2/static/js/runtime-main.a8e0a4ee.js.map",
+    "static/js/2.c25b1f73.chunk.js": "/MLVU-exp2/static/js/2.c25b1f73.chunk.js",
+    "static/js/2.c25b1f73.chunk.js.map": "/MLVU-exp2/static/js/2.c25b1f73.chunk.js.map",
+    "static/js/3.56b2f3f3.chunk.js": "/MLVU-exp2/static/js/3.56b2f3f3.chunk.js",
+    "static/js/3.56b2f3f3.chunk.js.map": "/MLVU-exp2/static/js/3.56b2f3f3.chunk.js.map",
     "index.html": "/MLVU-exp2/index.html",
     "static/css/main.8d3aaaa8.chunk.css.map": "/MLVU-exp2/static/css/main.8d3aaaa8.chunk.css.map",
-    "static/js/2.16af44c1.chunk.js.LICENSE.txt": "/MLVU-exp2/static/js/2.16af44c1.chunk.js.LICENSE.txt"
+    "static/js/2.c25b1f73.chunk.js.LICENSE.txt": "/MLVU-exp2/static/js/2.c25b1f73.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.ac86c374.js",
-    "static/js/2.16af44c1.chunk.js",
+    "static/js/runtime-main.a8e0a4ee.js",
+    "static/js/2.c25b1f73.chunk.js",
     "static/css/main.8d3aaaa8.chunk.css",
-    "static/js/main.e0c4c44d.chunk.js"
+    "static/js/main.a7cfeb78.chunk.js"
   ]
 }
